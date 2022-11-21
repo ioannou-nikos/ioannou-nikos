@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioannou-nikos
 - 👀 I’m interested in data analysis and web applications
-- 🌱 I’m currently learning elixir, julia, python
+- 🌱 I’m currently working with elixir, flutter, python
 - 💞️ I’m looking to collaborate on public sector and elder people well being
 - 📫 How to reach me twitter -> @urbanspieces ioannou.nikos@gmail.com 
 
